@@ -1,18 +1,18 @@
-var surl = 'https://github.com/SamPandey001/Secktor-Md' // Source URL
-const number = '919628516236'
-var name = '𝐒𝚫𝚳 𝚸𝚫𝚴𝐃𝚵𝐘'
+var surl = 'https://instagram.com/ki.m._.o' // Source URL
+const number = '212684151146'
+var name = 'AURTHER'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 var thumb = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 let text = `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
-│ *Name      :* Sam Pandey
-│ *Place       :* U.P.
-│ *Gender   :*  ᴍᴀʟᴇ
-│ *Age          :* 17_
-│ *Phone     :* wa.me/91xxxxxx
-│ *IG ID        :* ig.com
-│ *Status     :* Chilling._
+│ *الأسم      :* AURTHER 
+│ *البلد       :* S.A.
+│ *الجنس   :*  عمك
+│ *العمر          :* 20_
+│ *الهاتف     :* wa.me/212684151146
+│ *انستا        :* https://instagram.com/ki.m._.o
+│ *الحاله     :* مو شغلك._
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙`
 
 
